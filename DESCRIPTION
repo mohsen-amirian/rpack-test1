@@ -3,9 +3,9 @@ Type: Package
 Title: The Package will be used for Test pubpuse
 Version: 0.3.0
 Author: Who wrote it
-Maintainer: Mohsen Amirian (mohsen.amirian70@gmail.com)
+Maintainer: Mohsen Amirian <mohsen.amirian70@gmail.com>
 Description: It's just for test, don't ask me alot. It will print something beautiful
-License: I don't know
+License: GPL
 Encoding: UTF-8
 LazyData: true
-Imports: ggplot2
+Imports: ggplot2, data.table
