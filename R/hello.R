@@ -1,7 +1,7 @@
-# Hello, world!
+# Goodbye, world!
 #
-# This is an example function named 'hello'
-# which prints 'Hello, world!'.
+# This is an example function named 'my_square'
+# which prints 'Hello, Goodbye, world!'.
 #
 # You can learn more about package authoring with RStudio at:
 #
