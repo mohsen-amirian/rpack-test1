@@ -1,11 +1,13 @@
 Package: rpack
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
+Title: The Package will be used for Test pubpuse
+Version: 0.2.0
 Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Maintainer: Mohsen Amirian (mohsen.amirian70@gmail.com)
+Description: It's just for test, 
+don't ask me alot. 
+It will print something beautiful
+License: I don't know
 Encoding: UTF-8
 LazyData: true
+Imports: ggplot2
